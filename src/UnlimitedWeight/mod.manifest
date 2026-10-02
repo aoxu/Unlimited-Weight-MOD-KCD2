@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+  <info>
+    <name>Unlimited Weight</name>
+    <description>Sets base inventory capacity to 999999.</description>
+    <author>Unlimited Weight MOD KCD2</author>
+    <version>1.0.1</version>
+    <modid>unlimitedweight</modid>
+    <modifies_level>false</modifies_level>
+  </info>
+</kcd_mod>

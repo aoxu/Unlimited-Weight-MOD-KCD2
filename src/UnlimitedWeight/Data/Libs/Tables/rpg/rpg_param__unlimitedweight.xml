@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="barbora" xsi:noNamespaceSchemaLocation="../database.xsd">
+  <rpg_params version="1">
+    <rpg_param rpg_param_key="BaseInventoryCapacity" rpg_param_value="999999" />
+    <rpg_param rpg_param_key="MaxBaseInventoryCapacity" rpg_param_value="999999" />
+  </rpg_params>
+</database>

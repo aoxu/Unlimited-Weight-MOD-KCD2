@@ -1,0 +1,19 @@
+# Generated MOD packages
+/dist/
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor and operating system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.bak
